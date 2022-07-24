@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/arrow_back-48px.xml" value="0.386" />
+        <entry key="app/src/main/res/drawable/arrow_back_ios_new-24px.xml" value="0.4035" />
+        <entry key="app/src/main/res/drawable/done-24px.xml" value="0.4035" />
+        <entry key="app/src/main/res/drawable/edit-48px.xml" value="0.351" />
+        <entry key="app/src/main/res/drawable/ic_arrow_back_48px.xml" value="0.386" />
+        <entry key="app/src/main/res/drawable/ic_edit_48px.xml" value="0.386" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.471" />
+        <entry key="app/src/main/res/drawable/ic_search_48px.xml" value="0.471" />
+        <entry key="app/src/main/res/drawable/ic_undo_24px.xml" value="0.4035" />
+        <entry key="app/src/main/res/drawable/search-48px.xml" value="0.351" />
+        <entry key="app/src/main/res/drawable/undo-24px.xml" value="0.4035" />
+        <entry key="app/src/main/res/drawable/undo-40px.xml" value="0.4035" />
+        <entry key="app/src/main/res/layout/activity_board_detail.xml" value="0.5572916666666666" />
+        <entry key="app/src/main/res/layout/activity_board_list.xml" value="0.5572916666666666" />
+        <entry key="app/src/main/res/layout/activity_board_write.xml" value="0.5682291666666667" />
+        <entry key="app/src/main/res/layout/activity_boardwrite.xml" value="0.5572916666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3963541666666667" />
+        <entry key="app/src/main/res/layout/board_list_item.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_boardlist.xml" value="0.2462962962962963" />
+        <entry key="app/src/main/res/menu/top_app_bar.xml" value="0.48020833333333335" />
+        <entry key="app/src/main/res/menu/top_app_bar_board_detail.xml" value="0.5786458333333333" />
+        <entry key="app/src/main/res/menu/top_app_bar_board_list.xml" value="0.48020833333333335" />
+        <entry key="app/src/main/res/menu/top_app_bar_board_write.xml" value="0.48020833333333335" />
+        <entry key="app/src/main/res/menu/top_app_bar_board_writer.xml" value="0.48020833333333335" />
+        <entry key="app/src/main/res/menu/top_app_bar_boardlist.xml" value="0.5786458333333333" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
